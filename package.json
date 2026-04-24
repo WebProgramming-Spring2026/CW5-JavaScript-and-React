@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://SophieNguyen113.github.io/WebProgramming-Spring2026/CW5-JavaScript-and-React",
+  "homepage": "https://WebProgramming-Spring2026.github.io/CW5-JavaScript-and-React/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
